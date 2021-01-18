@@ -1,0 +1,4 @@
+db.sqlite3
+scraper/__pycache__/*
+simple_web_scraper/__pycache__/*
+
